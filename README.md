@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shayan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammad-shayan](https://www.linkedin.com/in/muhammad-shayan-a20a433b8?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Shayan091)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayan0319khan095@gmail.com)
 [![Location](https://img.shields.io/badge/📍%20Peshawar-Pakistan-2ea44f?style=for-the-badge)](https://github.com/Muhammad-Shayan091)
