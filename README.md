@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 👋 Hey there! I'm Shayan
+### 👋 Hey there! I'm Muhammad Shayan
 
 A **Computer Science undergraduate** from Peshawar with a deep passion for uncovering stories hidden inside data.
 
@@ -190,7 +190,7 @@ Git & GitHub            ████████████░░░░░░�
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shayan)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayan0319khan095@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:shayan0319khan095@gmail.com](https://www.linkedin.com/in/muhammad-shayan-a20a433b8?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 <br/>
 
