@@ -150,7 +150,7 @@ Git & GitHub            ████████████░░░░░░�
       <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Shayan091&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Shayan091&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Shayan091&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=300&layout=default&hide=jupyter20%notebook"/>
     </td>
   </tr>
 </table>
@@ -159,7 +159,7 @@ Git & GitHub            ████████████░░░░░░�
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Shayan091&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Shayan091&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&border=00D9FF" width="65%"/>
 
 </div>
 
