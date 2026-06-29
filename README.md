@@ -159,7 +159,7 @@ Git & GitHub            ████████████░░░░░░�
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Shayan091&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&border=00D9FF" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Shayan091&theme=tokyonight&hide_border=false&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&border=00D9FF" width="65%"/>
 
 </div>
 
