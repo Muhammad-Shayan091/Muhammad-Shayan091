@@ -109,7 +109,7 @@ Git & GitHub            ████████████░░░░░░�
 | # | Project | Tech | Status |
 |---|---------|------|--------|
 | 01 | 🕸️ Web Scraping | Python, BeautifulSoup | 🔄 In Progress |
-| 02 | 🔍 Exploratory Data Analysis | Pandas, Matplotlib | 🔄 In Progress |
+| 02 | 🔍 Exploratory Data Analysis | Pandas, Matplotlib | ✅ Completed |
 | 03 | 📊 Data Visualization | Seaborn, Plotly | 🔄 In Progress |
 | 04 | 💬 Sentiment Analysis | Python, NLP | 🔄 In Progress |
 
@@ -119,7 +119,7 @@ Git & GitHub            ████████████░░░░░░�
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muhammad-Shayan091&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muhammad-Shayan091&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
