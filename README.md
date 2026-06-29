@@ -150,7 +150,7 @@ Git & GitHub            ████████████░░░░░░�
       <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Shayan091&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Shayan091&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=300&layout=default&hide=jupyter20%notebook"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Shayan091&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=300&layout=normal&hide=jupyter20%notebook"/>
     </td>
   </tr>
 </table>
