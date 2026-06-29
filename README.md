@@ -147,10 +147,10 @@ Git & GitHub            ████████████░░░░░░�
 <table bordercolor="#00D9FF" border="1" cellpadding="8">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Shayan091&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Muhammad-Shayan091's Github stats" height="220"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Shayan091&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Github%20stats" height="220"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Shayan091&layout=normal&theme=tokyonight&hide_border=true&langs_count=6&card_width=300" height="220"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Shayan091&layout=normal&theme=tokyonight&hide_border=true&langs_count=6&card_width=300" height="220" style="border : 2px solid #00D9FF; border-radius : 8px;"/>
     </td>
   </tr>
 </table>
