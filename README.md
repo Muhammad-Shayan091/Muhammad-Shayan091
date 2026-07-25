@@ -108,7 +108,7 @@ Git & GitHub            ████████████░░░░░░�
 
 | # | Project | Tech | Status |
 |---|---------|------|--------|
-| 01 | 🕸️ Web Scraping | Python, BeautifulSoup | 🔄 In Progress |
+| 01 | 🕸️ Web Scraping | Python, BeautifulSoup | ✅ Completed |
 | 02 | 🔍 Exploratory Data Analysis | Pandas, Matplotlib | ✅ Completed |
 | 03 | 📊 Data Visualization | Seaborn, Plotly | 🔄 In Progress |
 | 04 | 💬 Sentiment Analysis | Python, NLP | 🔄 In Progress |
